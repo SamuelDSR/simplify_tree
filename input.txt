@@ -1,0 +1,6 @@
+boissons > soda > limonade
+boissons > soda > tonic
+boissons > soda > cola
+boissons > soda > cola light
+epicerie > pates > spaghetti
+epicerie > pates > coquillettes
